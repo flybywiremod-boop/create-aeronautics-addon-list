@@ -230,6 +230,14 @@
             "curseforge":"https://www.curseforge.com/minecraft/mc-mods/sable-schematic-tool",
             "author":"Rew1nd",
             "tags":["Mod", "Utility", "Equipment"]
+        },
+        {
+            "title":"Create: Kinetic Lift",
+            "description": "Create: Kinetic Lift is a NeoForge 1.21.1 addon for Sable and Create that introduces modern aircraft components and systems.",
+            "modrinth": "https://modrinth.com/mod/create-kinetic-lift",
+            "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-kinetic-lift",
+            "author": "Fly-By-Wire, Atronia, Patpuck",
+            "tags": ["Mod", "Technology", "Mechanics", "Adventure", "Equipment"]
         }
     ]
 }
